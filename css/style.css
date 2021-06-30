@@ -19,6 +19,8 @@ ul {
 }
 li {
     text-transform: uppercase;
+}
+li a {
     color: #303134;
 }
 .bg-image {
